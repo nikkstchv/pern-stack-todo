@@ -1,5 +1,11 @@
-in /server/db.js specify database
+in _/server/db.js_ 
 
-in /server run _nodemon index_
+### `specify your database`
 
-in /client run _npm start_
+in _/server_ run
+
+### `nodemon index`
+
+in _/client_ run
+
+### `npm start`
